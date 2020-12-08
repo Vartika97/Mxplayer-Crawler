@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "fast-csv": "^3.0.1",
+    "fast-csv": "^4.3.6",
     "fs": "0.0.1-security",
     "puppeteer": "^1.17.0",
     "request": "^2.88.0"
